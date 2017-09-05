@@ -1,2 +1,2 @@
 # project1
-my first progect
+my first project
