@@ -1,5 +1,5 @@
-# Тест проэкта 1
-Это тестовый проект
+# ПРАВИЛА ОФОРМЛЕНИЯ ФАЙЛА README.MD НА GITHUB
+[Взято отсюда](http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html)
 
 [ссылка](https://agtplus.ua)
 **Жирный шрифт**
